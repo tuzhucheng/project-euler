@@ -1,4 +1,3 @@
-possibilities = []
 for c in range(1, 1000):
     for b in range(1, c):
         a = 1000 - c - b
